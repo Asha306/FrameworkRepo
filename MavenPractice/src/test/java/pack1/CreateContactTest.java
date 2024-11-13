@@ -23,6 +23,13 @@ System.out.println("modifyContact executed");
 	
 }
 
+@Test
+public void deleteContactTest() {
+System.out.println("deleteContact executed");	
+	
+	
+	
+}
 
 }
 
